@@ -1,10 +1,6 @@
-<div align="center">
-
 <p align="center">
-  <img src="./docs/penguine.png" alt="readme-ai-streamlit" width="100%">
+  <img src="./docs/penguine.png" alt="Bramy logo" width="160">
 </p>
-
-<p align="center">
   <em>Designed for simplicity, customization, and developer productivity.</em>
 </p>
 # 🐍 Bramy
