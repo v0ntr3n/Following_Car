@@ -1,3 +1,12 @@
+<div align="center">
+
+<p align="center">
+  <img src="./docs/penguine.png" alt="readme-ai-streamlit" width="100%">
+</p>
+
+<p align="center">
+  <em>Designed for simplicity, customization, and developer productivity.</em>
+</p>
 # 🐍 Bramy
 
 📖 **Overview**
