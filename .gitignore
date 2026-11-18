@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Databases & local artifacts
+*.db
+*.sqlite
+*.sqlite3
+.env
+.DS_Store
+
+# IDE & Agent configs
+.vscode/
+.idea/
+.claude/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
